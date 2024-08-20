@@ -2,5 +2,7 @@
 name = "rag-rs"
 version = "0.1.0"
 edition = "2021"
+description = "simple rag"
+license = "Apache-2.0"
 
 [dependencies]
